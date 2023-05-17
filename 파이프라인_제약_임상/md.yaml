@@ -1,0 +1,6 @@
+"## 카드타입 넣기\n[:octicons-heart-fill-24:{ .mdx-heart } 리드라인 기사][Insiders]{ .mdx-insiders\
+  \ } ·\n[:octicons-tag-24: insiders-4.12.0][Insiders] ·\n:octicons-beaker-24: Experimental\n\
+  \nCard grids wrap each grid item with a beautiful hover card that levitates on\n\
+  hover. They come in two slightly different syntaxes: [list] and [block syntax],\n\
+  adding support for distinct use cases.\n\n  [Insiders]: ../insiders/index.md\n \
+  \ [list]: #list-syntax\n  [block syntax]: #block-syntax"
